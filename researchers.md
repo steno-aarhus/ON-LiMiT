@@ -2,6 +2,7 @@
 title: "Information til forskere"
 description: |
   Hvis du er forsker og gerne vil vide mere om projektet
+title-block-banner: false
 ---
 
 ## Om samarbejdet
