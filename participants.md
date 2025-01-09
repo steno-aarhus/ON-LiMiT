@@ -1,7 +1,7 @@
 ---
 title: "Information til deltagere"
 description: |
-  Hvis du har type 2 diabetes og vil deltage i projektet
+  Hvis du har type 2 diabetes og vil deltage
 title-block-banner: false
 ---
 
