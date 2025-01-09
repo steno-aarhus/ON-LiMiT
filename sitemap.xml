@@ -1,43 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://steno-aarhus.github.io/ON-LiMiT/about/index.html</loc>
-    <lastmod>2025-01-09T12:30:50.029Z</lastmod>
-  </url>
-  <url>
-    <loc>https://steno-aarhus.github.io/ON-LiMiT/about.html</loc>
-    <lastmod>2025-01-09T12:30:50.702Z</lastmod>
-  </url>
-  <url>
-    <loc>https://steno-aarhus.github.io/ON-LiMiT/directory.html</loc>
-    <lastmod>2025-01-09T12:30:51.199Z</lastmod>
-  </url>
-  <url>
-    <loc>https://steno-aarhus.github.io/ON-LiMiT/index.html</loc>
-    <lastmod>2025-01-09T12:30:51.848Z</lastmod>
+    <loc>https://steno-aarhus.github.io/ON-LiMiT/participants.html</loc>
+    <lastmod>2025-01-09T13:05:20.785Z</lastmod>
   </url>
   <url>
     <loc>https://steno-aarhus.github.io/ON-LiMiT/LICENSE.html</loc>
-    <lastmod>2025-01-09T12:30:52.859Z</lastmod>
+    <lastmod>2025-01-09T13:05:20.775Z</lastmod>
+  </url>
+  <url>
+    <loc>https://steno-aarhus.github.io/ON-LiMiT/about/index.html</loc>
+    <lastmod>2025-01-09T13:05:20.781Z</lastmod>
   </url>
   <url>
     <loc>https://steno-aarhus.github.io/ON-LiMiT/participants/index.html</loc>
-    <lastmod>2025-01-09T12:30:53.660Z</lastmod>
-  </url>
-  <url>
-    <loc>https://steno-aarhus.github.io/ON-LiMiT/participants.html</loc>
-    <lastmod>2025-01-09T12:30:54.454Z</lastmod>
+    <lastmod>2025-01-09T13:05:20.785Z</lastmod>
   </url>
   <url>
     <loc>https://steno-aarhus.github.io/ON-LiMiT/practitioners/index.html</loc>
-    <lastmod>2025-01-09T12:30:55.086Z</lastmod>
-  </url>
-  <url>
-    <loc>https://steno-aarhus.github.io/ON-LiMiT/practitioners.html</loc>
-    <lastmod>2025-01-09T12:30:55.785Z</lastmod>
+    <lastmod>2025-01-09T13:05:20.785Z</lastmod>
   </url>
   <url>
     <loc>https://steno-aarhus.github.io/ON-LiMiT/researchers.html</loc>
-    <lastmod>2025-01-09T12:30:57.127Z</lastmod>
+    <lastmod>2025-01-09T13:05:20.785Z</lastmod>
+  </url>
+  <url>
+    <loc>https://steno-aarhus.github.io/ON-LiMiT/practitioners.html</loc>
+    <lastmod>2025-01-09T13:05:20.785Z</lastmod>
+  </url>
+  <url>
+    <loc>https://steno-aarhus.github.io/ON-LiMiT/directory.html</loc>
+    <lastmod>2025-01-09T13:05:20.781Z</lastmod>
+  </url>
+  <url>
+    <loc>https://steno-aarhus.github.io/ON-LiMiT/index.html</loc>
+    <lastmod>2025-01-09T13:05:20.785Z</lastmod>
+  </url>
+  <url>
+    <loc>https://steno-aarhus.github.io/ON-LiMiT/about.html</loc>
+    <lastmod>2025-01-09T13:05:20.781Z</lastmod>
   </url>
 </urlset>
