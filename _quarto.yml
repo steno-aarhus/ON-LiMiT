@@ -1,0 +1,39 @@
+project:
+  type: onlimit-theme
+
+website:
+  title: "ON LiMiT"
+  site-url: "https://steno-aarhus.github.io/ON-LiMiT/"
+  repo-url: "https://github.com/steno-aarhus/ON-LiMiT"
+  navbar:
+    pinned: true
+    left:
+      - text: "Om ON LiMiT"
+        menu:
+          - text: "Om ON LiMiT"
+            href: about.md
+          - text: "For praktiserende læger"
+            href: practitioners.md
+          - text: "For deltagere"
+            href: participants.md
+          - text: "For forskere"
+            href: researchers.md
+    tools:
+      - icon: github
+        href: "https://github.com/steno-aarhus/ON-LiMiT"
+        aria-label: "GitHub icon: Link to ON LiMIT GitHub page"
+      - icon: globe
+        href: directory.qmd
+        aria-label: "Globe icon: Link to directory page of other SDCA websites"
+
+
+format:
+  onlimit-theme-html:
+    theme:
+      - onlimit-theme-html
+      - style.scss
+
+editor:
+  markdown:
+    wrap: 72
+    canonical: true
