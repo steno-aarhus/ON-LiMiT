@@ -9,9 +9,9 @@ about:
     image-shape: rounded
     links:
       - text: "For praktiserende læger"
-        href: "https://steno-aarhus.github.io/research/onboarding.html"
+        href: "https://steno-aarhus.github.io/ON-LiMiT/practitioners.html"
       - text: "For deltagere"
-        href: "https://steno-aarhus.github.io/research/support.html"
+        href: "https://steno-aarhus.github.io/ON-LiMiT/participants.html"
       - text: "For forskere"
-        href: "https://steno-aarhus.github.io/research/organization.html"
+        href: "https://steno-aarhus.github.io/ON-LiMiT/researchers.html"
 ---
